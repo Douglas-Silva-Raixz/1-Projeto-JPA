@@ -20,10 +20,11 @@
     color:white;
 }
 .escola-texto{
-    align-items: center;
+    text-align: center;
 }
 .escola-imagem{
     width: 25%;
+    text-align: center;
 }
 .escola{
     background-image: linear-gradient(#0602ff,#00ccff);
