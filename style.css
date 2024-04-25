@@ -61,3 +61,8 @@ body{
 .estudante-div{
     text-align: center;
 }
+.footer{
+    background-color: black;
+    padding: 15px 0;
+text-align: center;
+}
